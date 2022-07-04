@@ -4,7 +4,7 @@
 
 <canvas id="slate" width="100%" height="auto"></canvas>
 
-<script>
+<script type="text/javascript">
 if (typeof jQuery == 'function') {...}
 
 //or
