@@ -1,6 +1,25 @@
 ### Hi there 👋
 
 <html>
+
+<canvas id="slate" width="100%" height="auto"></canvas>
+
+<script>
+if (typeof jQuery == 'function') {...}
+
+//or
+
+if (typeof $== 'function') {...}
+
+// or
+
+if (jQuery) {
+    alert("jquery is loaded");
+} else {
+    alert("Not loaded");
+}
+</script>
+
   
  </html> 
 
