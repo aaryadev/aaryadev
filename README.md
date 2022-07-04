@@ -2,23 +2,7 @@
 
 <html>
 
-<canvas id="slate" width="100%" height="auto"></canvas>
 
-<script type="text/javascript">
-if (typeof jQuery == 'function') {...}
-
-//or
-
-if (typeof $== 'function') {...}
-
-// or
-
-if (jQuery) {
-    alert("jquery is loaded");
-} else {
-    alert("Not loaded");
-}
-</script>
 
   
  </html> 
