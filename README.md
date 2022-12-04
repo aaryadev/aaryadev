@@ -2,7 +2,7 @@
 
 <html>
 
-
+<img src="https://aarya.dev/stat/adimg/graph.webp">
 
   
  </html> 
